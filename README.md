@@ -1,5 +1,6 @@
 # 🎉DSCFest Hacktoberfest
 This program is by DSC-Galgotias|GTBIT to train students to learn Git & GitHub. It contains all resources for learning Git & Github. All of the contributions in this repository are from beginners. So, jump right in! 😀
+All the Best
 
 ### ⚡️ Follow Us:
 
